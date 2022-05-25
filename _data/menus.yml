@@ -1,0 +1,24 @@
+- title: Home
+  url: /pptnih/
+  external: false
+
+- title: About
+  url: /about/
+  external: false
+
+- title: credit
+  url: /credits/
+  external: false
+
+- title: poems
+  url: /poem/
+  external: false
+
+- title: search
+  url: /search/
+  external: false 
+
+# Example:
+# - title: github
+#   url: https://github.com/piharpi/jekyll-klise
+#   external: true

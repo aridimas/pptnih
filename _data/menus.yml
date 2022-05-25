@@ -14,6 +14,10 @@
   url: /poem/
   external: false
 
+- title: puisi
+  url: /puisi/
+  external: false
+
 - title: search
   url: /search/
   external: false 
